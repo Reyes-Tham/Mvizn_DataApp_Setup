@@ -3,19 +3,21 @@ To use the application you will have to follow the detailed guide below
 # Setting up the application:
 
 ## Step 1:
+Ensure **Java version** is higher than **19.0.1**. Update Link: https://www.oracle.com/java/technologies/javase/jdk20-archive-downloads.html
+## Step 2:
 Download **xampp** if you do not have the application. 
 [https://www.apachefriends.org/]([url](https://www.apachefriends.org))
 
-## Step 2:
+## Step 3:
 After downloading xampp you can download the DataSortApplication zip file in this git hub.
 Extract the file to your folder of choice.
 
-## Step 3:
+## Step 4:
 Open xampp control panel through you search bar.
 Click on Start for **Apache** and **MySQL**.
 ![image](https://github.com/Reyes-Tham/Mvizn_DataApp_Setup/assets/147404757/95934e69-99b5-4155-ae51-13079b1835c5)
 
-## Step 4:
+## Step 5:
 Click on Admin for **MySQL** and it will bring you to an admin page.
 ![image](https://github.com/Reyes-Tham/Mvizn_DataApp_Setup/assets/147404757/5a35514c-c881-46ba-bc53-49951cc447ed)
 
@@ -24,7 +26,7 @@ Inside this admin page, click on **New** and create a database called **mvizndat
 ![image](https://github.com/Reyes-Tham/Mvizn_DataApp_Setup/assets/147404757/3a81595a-2517-4d3e-b9cb-6bbdadbdd810)
 
 
-## Step 5:
+## Step 6:
 Through the admin page, click on the mvizndata database if its not open.
 At the top bar, click on **import**.
 ![image](https://github.com/Reyes-Tham/Mvizn_DataApp_Setup/assets/147404757/24ff5b69-f2ef-4716-bcfa-7f634ab14082)
