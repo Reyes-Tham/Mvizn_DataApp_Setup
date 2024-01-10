@@ -34,5 +34,14 @@ Then click on choose file and go to your extracted zip file from just now to Add
 
 # Running the application:
 
+## Step 1:
+Open xampp control panel through you search bar.
+Click on Start for **Apache** and **MySQL**.
+![image](https://github.com/Reyes-Tham/Mvizn_DataApp_Setup/assets/147404757/95934e69-99b5-4155-ae51-13079b1835c5)
+
+## Step 2: 
+Go to the extracted zip file and double click **run.bat**
+![image](https://github.com/Reyes-Tham/Mvizn_DataApp_Setup/assets/147404757/45811d1a-2a8d-4ced-9ad1-3b025c912ade)
+
 
 
