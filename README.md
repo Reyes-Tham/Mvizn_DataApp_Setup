@@ -20,7 +20,7 @@ Click on Admin for **MySQL** and it will bring you to an admin page.
 ![image](https://github.com/Reyes-Tham/Mvizn_DataApp_Setup/assets/147404757/5a35514c-c881-46ba-bc53-49951cc447ed)
 
 
-Inside this admin page, click on **New** and create a database called **mvizndata**. **NOTE: It is very important that this is spelled correctly**
+Inside this admin page, click on **New** and create a database called **mvizndata**. *[**NOTE: It is very important that this is spelled correctly**]*
 ![image](https://github.com/Reyes-Tham/Mvizn_DataApp_Setup/assets/147404757/bc81f6d6-d397-4b91-a546-15d9b4694d09)
 
 ## Step 5:
