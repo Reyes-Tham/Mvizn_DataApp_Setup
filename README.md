@@ -4,7 +4,7 @@ To use the application you will have to follow the detailed guide below
 
 ## Step 1:
 Download **xampp** if you do not have the application. 
-[https://www.apachefriends.org/](url)
+[https://www.apachefriends.org/]([url](https://www.apachefriends.org))
 
 ## Step 2:
 After downloading xampp you can download the DataSortApplication zip file in this git hub.
