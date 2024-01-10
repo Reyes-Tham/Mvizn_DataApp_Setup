@@ -21,7 +21,8 @@ Click on Admin for **MySQL** and it will bring you to an admin page.
 
 
 Inside this admin page, click on **New** and create a database called **mvizndata**. *[**NOTE: It is very important that this is spelled correctly**]*
-![image](https://github.com/Reyes-Tham/Mvizn_DataApp_Setup/assets/147404757/bc81f6d6-d397-4b91-a546-15d9b4694d09)
+![image](https://github.com/Reyes-Tham/Mvizn_DataApp_Setup/assets/147404757/3a81595a-2517-4d3e-b9cb-6bbdadbdd810)
+
 
 ## Step 5:
 Through the admin page, click on the mvizndata database if its not open.
