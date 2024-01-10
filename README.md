@@ -3,10 +3,11 @@ To use the application you will have to follow the detailed guide below
 # Setting up the application:
 
 ## Step 1:
-Ensure **Java version** is higher than **19.0.1**. Update Link: https://www.oracle.com/java/technologies/javase/jdk20-archive-downloads.html
+Ensure **Java version** is higher than **19.0.1**. 
+Update Link: https://www.oracle.com/java/technologies/javase/jdk20-archive-downloads.html
 ## Step 2:
 Download **xampp** if you do not have the application. 
-[https://www.apachefriends.org/]([url](https://www.apachefriends.org))
+Download Link: https://www.apachefriends.org/
 
 ## Step 3:
 After downloading xampp you can download the DataSortApplication zip file in this git hub.
