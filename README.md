@@ -18,6 +18,8 @@ Click on Start for **Apache** and **MySQL**.
 ## Step 4:
 Click on Admin for **MySQL** and it will bring you to an admin page.
 ![image](https://github.com/Reyes-Tham/Mvizn_DataApp_Setup/assets/147404757/5a35514c-c881-46ba-bc53-49951cc447ed)
+
+
 Inside this admin page, click on **New** and create a database called **mvizndata**. **NOTE: It is very important that this is spelled correctly**
 ![image](https://github.com/Reyes-Tham/Mvizn_DataApp_Setup/assets/147404757/bc81f6d6-d397-4b91-a546-15d9b4694d09)
 
@@ -25,6 +27,8 @@ Inside this admin page, click on **New** and create a database called **mvizndat
 Through the admin page, click on the mvizndata database if its not open.
 At the top bar, click on **import**.
 ![image](https://github.com/Reyes-Tham/Mvizn_DataApp_Setup/assets/147404757/24ff5b69-f2ef-4716-bcfa-7f634ab14082)
+
+
 Then click on choose file and go to your extracted zip file from just now to AdditionalFiles and select the **mvizndata.sql** and click **import**.
 ![image](https://github.com/Reyes-Tham/Mvizn_DataApp_Setup/assets/147404757/8d3e1301-71a3-4cf2-ab60-c39d36911b1b)
 
