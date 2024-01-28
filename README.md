@@ -47,5 +47,8 @@ Click on Start for **Apache** and **MySQL**.
 Go to the extracted zip file and double click **run.bat**
 ![image](https://github.com/Reyes-Tham/Mvizn_DataApp_Setup/assets/147404757/45811d1a-2a8d-4ced-9ad1-3b025c912ade)
 
+# Application Video Guide:
+https://www.youtube.com/watch?v=OsniUNkfSEI
+
 
 
